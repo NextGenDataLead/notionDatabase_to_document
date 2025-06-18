@@ -18,7 +18,7 @@ This project provides a Python script to extract rich content from a Notion data
 
 Before running the script, ensure you have the following:
 
-1.  **Python 3.x**: Installed on your system.
+1.  **Python 3.9**: Installed on your system or with a conda environment.
 2.  **Notion Integration Token**:
     *   Go to your Notion workspace settings -> Integrations -> Develop your own integrations.
     *   Click "+ New integration", give it a name (e.g., "Notion Doc Exporter"), and submit.

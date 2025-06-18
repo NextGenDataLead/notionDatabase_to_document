@@ -1,0 +1,8 @@
+google_api_python_client==2.172.0
+google_auth_oauthlib==1.2.2
+notion_client==2.3.0
+Pillow==11.2.1
+protobuf==6.31.1
+python-dotenv==1.1.0
+python_docx==1.2.0
+Requests==2.32.4

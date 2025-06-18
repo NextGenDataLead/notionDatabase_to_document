@@ -1,0 +1,13 @@
+.env
+
+notion_filter_history.json
+client_secret.json
+token.json
+
+
+notion_db_history.json
+notion_filter_history.json
+
+Output/
+__pycache__/
+
